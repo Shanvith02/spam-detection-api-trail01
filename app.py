@@ -13,7 +13,7 @@ vectorizer = pickle.load(open("vectorizer.pkl", "rb"))
 HIBP_API_KEY = "your_api_key_here"  # Get an API key from https://haveibeenpwned.com/
 
 # 🔹 Define Sample Lists for Number-Based Categorization
-CONTACTS = {"+919876543210", "+917665443210"}  # Sample personal contacts
+CONTACTS = {"+919876543210", "+917665443210","8790151102"}  # Sample personal contacts
 BANK_NUMBERS = {"+18005551234", "+16505559999"}  # Sample bank numbers
 EDUCATIONAL_NUMBERS = {"+914001234567"}  # Sample college/school numbers
 
